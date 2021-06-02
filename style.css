@@ -1022,7 +1022,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 .containerform{
     width: 90%;
@@ -1030,9 +1030,6 @@ h4 {
     margin-top: 25px;
     display: flex;
     justify-content: center;
-
-
-
 }
 .formulaire{
     width:50%;
