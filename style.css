@@ -184,7 +184,7 @@ a:hover{
 }
 
 .chouettetext{
-    color: white;
+    color:#F3976C;
     text-align: justify;
     margin-bottom: 10px;
     line-height: 30px;
@@ -931,7 +931,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #333333!important;
 }
 
 .portfolio-thumb {
@@ -960,7 +960,7 @@ h4 {
 }
 
 .black-background {
-    background-color: #F3976C;
+    background-color: white;
     padding: 30px 30px 30px 30px;
     margin-bottom: 35px;
 }
