@@ -21,6 +21,10 @@ body {
     width:100%;
     height:auto;
 }
+.photoreal{
+    width:100%;
+    height:auto;
+}
 
 a,
 button {
@@ -928,6 +932,8 @@ h4 {
 }
 
 .portfolio-thumb {
+    width:100%;
+    height:auto;
     margin-bottom: 24px;
     border-radius: 10px 10px 0 0;
     width: 100%;
