@@ -13,6 +13,14 @@ body {
 {
     width: 100%;
 }
+.img{
+    width:100%;
+    height: auto;
+}
+.img-responsive{
+    width:100%;
+    height:auto;
+}
 
 a,
 button {
@@ -33,8 +41,8 @@ a:hover {
     z-index: 100000;
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
 } */
-.img-responsive{
-    width: 30px;
+.img{
+    width: 100%;
     height: auto;
 }
 .bloc {
@@ -85,7 +93,6 @@ a:hover {
     width: 135px;
     text-align: center;
     margin: auto;
-
 }
 
 .metiers{
@@ -94,7 +101,6 @@ a:hover {
     flex-direction: space-between;
     margin: auto;
     margin-right: -16px;
-
 }
 .espace{
     width: 35%;
@@ -110,7 +116,6 @@ a:hover {
     font-weight: 600;
     text-align: center;
 }
-
 
 .bg-repeat {
     background: repeat;
@@ -178,9 +183,7 @@ a:hover{
     line-height: 30px;
     font-weight: 600;
 }
-li:focus{
 
-}
 .parlons
 {
     color: white;
@@ -269,7 +272,6 @@ nav{
   width: 100%;
   color:F3976C;
   background-color:#FFF; 
-
 }
 .sous-menu>li:hover{
   background:#F3976C;
@@ -563,7 +565,6 @@ nav .caret {
     text-align:center;
     color: white;
     font-size: 1.8rem;
-
 }
 
 .dropdown-menu .dropdown-menu {
@@ -893,8 +894,7 @@ p {
 
 h2 {
     font-size: 2.4rem;
-    line-height: 1.4em;
-    
+    line-height: 1.4em;    
 }
 
 h3 {
@@ -1001,7 +1001,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine:hover {
-    color: #c27956!important;
+    color: #F3976C!important;
 }
 
 .icon-dark-slate-blue {
@@ -1028,7 +1028,7 @@ h4 {
     width: 90%;
     margin: auto;
     margin-top: 25px;
-    display: flex;git a
+    display: flex;
     justify-content: center;
 }
 .formulaire{
@@ -1037,7 +1037,6 @@ h4 {
     padding:10px;
     border-radius: 10px;
     box-shadow: 2px 2px 2px 2px #F3976C;
-
 }
 .cartegoogle{
     width:40%;
@@ -1047,7 +1046,6 @@ h4 {
     margin: auto;
     border-radius: 10px;
     box-shadow: 2px 2px 2px 2px #F3976C;
-
 }
 .cartegoogle3{
     height:260px;
