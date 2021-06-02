@@ -21,10 +21,7 @@ body {
     width:100%;
     height:auto;
 }
-.photoreal{
-    width:100%;
-    height:auto;
-}
+
 
 a,
 button {
@@ -170,6 +167,12 @@ a:hover{
 }
 .photoreal{
     border-radius: 10px;
+    width:100%;
+    height:auto;
+}
+.photochou{
+    width: 100%;
+    height:auto;
 }
 .chouettepret{
     color:white;
