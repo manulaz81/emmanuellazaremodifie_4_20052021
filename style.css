@@ -897,6 +897,14 @@ p {
     font-weight: 700;
 }
 
+.hero {
+    margin-top: 22px;
+    color: #FFFFFF!important;
+    text-transform: uppercase;
+    padding: 12px 28px 12px 28px;
+    font-size: 16px;
+    font-weight: 700;
+}
 .social {
     max-width: 400px;
     height: 60px;
@@ -1036,6 +1044,7 @@ h4 {
 
 .bg-banniere {
     background-image: url("img/la-chouette-agence-banniere.jpg");
+ 
 }
 
 .bg-presentation {
