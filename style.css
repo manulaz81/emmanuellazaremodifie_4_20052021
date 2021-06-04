@@ -175,7 +175,7 @@ a:hover{
     height:auto;
 }
 .chouettepret{
-    color:white;
+    color:black;
     font-weight: 800;
     margin: auto;
     text-align: center;
@@ -184,7 +184,7 @@ a:hover{
 }
 
 .chouettetext{
-    color:#F3976C;
+    color:black;
     text-align: justify;
     margin-bottom: 10px;
     line-height: 30px;
@@ -235,7 +235,7 @@ nav{
 .menu>li>a{
   display: inline-block;
   text-decoration: none;
-  color:rgba(0,0,0,0.5);
+  color:rgba(0,0,0,1);
   padding: 10px;
   font-size: 1.5em;
 
@@ -931,7 +931,7 @@ h4 {
 }
 
 .white {
-    color: #333333!important;
+    color: black!important;
 }
 
 .portfolio-thumb {
@@ -983,12 +983,14 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: black!important;
+    border: solid 2px;
+    background-color: white;
 }
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: black!important;
     margin:auto;
 }
 
@@ -1246,6 +1248,7 @@ p,
 }
 .row{
     width:100%;
+    margin: auto;
 }
 /* .nav > li {
     margin-top: 0;
